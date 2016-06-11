@@ -1,0 +1,57 @@
+#index {
+	background-image: url("2_kanye_west.jpg");
+	background-attachment: fixed;
+}
+
+div#nav {
+
+	position: fixed;
+	height: 15px;
+	width: 100%;
+	margin-top: 10px;
+
+}
+a {
+	text-decoration: none;
+	color: black;
+}
+ul {
+	display: none;
+	float: right;
+	margin-right: 15px;
+}
+li {
+	display: inline;
+	padding: 3px;
+	border: none;
+	margin: 5px;
+	font-family: 'Open Sans', sans-serif;
+}
+#lyrics {
+	display: none;
+	margin-left: auto;
+	padding-left: 300px;
+	padding-top: 150px;
+	text-align: left;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 15px;
+}
+
+#header {
+	margin-left: auto;
+	padding-left: 15px;
+	padding-top: 50px;
+	text-align: left;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 50px;
+}
+
+#subheader {
+	float: below;
+	margin: auto;
+	text-align: left;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 20px;
+	font-style: italic;
+	padding-left: 15px;
+}
